@@ -10,5 +10,6 @@ namespace GitTest.Controllers
     public class HomeController : ApiController
     {
     // test branch
+    // test branch 3
     }
 }
